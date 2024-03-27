@@ -1,0 +1,109 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.0,
+            "duration": 20.0,
+            "staff": "4",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 24.0,
+            "duration": 20.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 52.0,
+            "duration": 20.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 80.0,
+            "duration": 20.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 122.0,
+            "duration": 18.0,
+            "staff": "4",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 120.0,
+            "duration": 20.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 144.0,
+            "duration": 20.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 148.0,
+            "duration": 20.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 210.0,
+            "duration": 18.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 232.0,
+            "duration": 20.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 212.0,
+            "duration": 20.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 236.0,
+            "duration": 20.0,
+            "staff": "4",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 34.0,
+            "duration": 10.0,
+            "staff": "4",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS1",
+            "start": 60.0,
+            "duration": 12.0,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS1",
+            "start": 90.0,
+            "duration": 10.0,
+            "staff": "3",
+            "tag": "CS1"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.0,
+            "duration": 12.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 13.0,
+            "duration": 9.5,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 12.0,
+            "duration": 12.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 36.0,
+            "duration": 12.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 54.0,
+            "duration": 12.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 54.0,
+            "duration": 10.5,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 96.0,
+            "duration": 12.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "CS1-inc",
+            "start": 109.0,
+            "duration": 5.0,
+            "staff": "2",
+            "tag": "CS1-inc"
+        },
+        {
+            "type": "CS1-inc",
+            "start": 115.25,
+            "duration": 3.25,
+            "staff": "1",
+            "tag": "CS1-inc"
+        },
+        {
+            "type": "S",
+            "start": 132.0,
+            "duration": 12.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 162.0,
+            "duration": 12.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 181.0,
+            "duration": 11.0,
+            "staff": "1",
+            "tag": "S2"
+        },
+        {
+            "type": "S2",
+            "start": 196.0,
+            "duration": 11.0,
+            "staff": "2",
+            "tag": "S2"
+        },
+        {
+            "type": "S2",
+            "start": 211.0,
+            "duration": 11.0,
+            "staff": "3",
+            "tag": "S2"
+        },
+        {
+            "type": "S2",
+            "start": 235.0,
+            "duration": 11.0,
+            "staff": "1",
+            "tag": "S2"
+        },
+        {
+            "type": "S",
+            "start": 288.0,
+            "duration": 12.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 289.0,
+            "duration": 11.0,
+            "staff": "2",
+            "tag": "S2"
+        },
+        {
+            "type": "S",
+            "start": 306.0,
+            "duration": 12.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 307.0,
+            "duration": 11.0,
+            "staff": "2",
+            "tag": "S2"
+        },
+        {
+            "type": "S2-inc",
+            "start": 319.5,
+            "duration": 3.0,
+            "staff": "1",
+            "tag": "S2-inc"
+        },
+        {
+            "type": "S2-inc",
+            "start": 324.0,
+            "duration": 3.0,
+            "staff": "2",
+            "tag": "S2-inc"
+        },
+        {
+            "type": "S",
+            "start": 330.0,
+            "duration": 12.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 332.5,
+            "duration": 9.5,
+            "staff": "1",
+            "tag": "S2"
+        },
+        {
+            "type": "S2-inc",
+            "start": 343.0,
+            "duration": 3.5,
+            "staff": "2",
+            "tag": "S2-inc"
+        },
+        {
+            "type": "S2-inc",
+            "start": 349.0,
+            "duration": 4.5,
+            "staff": "3",
+            "tag": "S2-inc"
+        },
+        {
+            "type": "S",
+            "start": 372.0,
+            "duration": 12.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 373.0,
+            "duration": 10.0,
+            "staff": "3",
+            "tag": "S2"
+        },
+        {
+            "type": "S",
+            "start": 402.0,
+            "duration": 12.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S2",
+            "start": 403.0,
+            "duration": 11.0,
+            "staff": "2",
+            "tag": "S2"
+        }
+    ]
+}

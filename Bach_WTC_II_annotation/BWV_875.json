@@ -1,0 +1,88 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.0,
+            "duration": 8.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 8.0,
+            "duration": 8.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 10.25,
+            "duration": 5.75,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 20.0,
+            "duration": 8.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 22.5,
+            "duration": 5.5,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 40.0,
+            "duration": 8.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 52.0,
+            "duration": 8.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 53.0,
+            "duration": 11.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 56.0,
+            "duration": 4.0,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S-inv",
+            "start": 64.0,
+            "duration": 5.0,
+            "staff": "2",
+            "tag": "S-inv"
+        },
+        {
+            "type": "S",
+            "start": 96.0,
+            "duration": 8.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 100.25,
+            "duration": 5.75,
+            "staff": "3",
+            "tag": "CS1"
+        }
+    ]
+}

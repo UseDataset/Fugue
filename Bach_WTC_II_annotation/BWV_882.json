@@ -1,0 +1,144 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.0,
+            "duration": 15.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 16.0,
+            "duration": 15.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 17.0,
+            "duration": 13.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS1",
+            "start": 33.0,
+            "duration": 13.0,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 32.0,
+            "duration": 15.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 81.0,
+            "duration": 13.0,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 80.0,
+            "duration": 15.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 128.0,
+            "duration": 15.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 129.0,
+            "duration": 10.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 144.0,
+            "duration": 15.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 145.5,
+            "duration": 12.5,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 160.0,
+            "duration": 15.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 161.0,
+            "duration": 13.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS1",
+            "start": 209.0,
+            "duration": 13.0,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 208.0,
+            "duration": 15.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 257.0,
+            "duration": 13.0,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 256.0,
+            "duration": 15.0,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 280.0,
+            "duration": 15.0,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 304.0,
+            "duration": 15.0,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 305.0,
+            "duration": 13.0,
+            "staff": "2",
+            "tag": "CS1"
+        }
+    ]
+}

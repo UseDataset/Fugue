@@ -1,0 +1,137 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.0,
+            "duration": 5.25,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 4.5,
+            "duration": 5.25,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 12.0,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 45.0,
+            "duration": 5.25,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 49.5,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 57.0,
+            "duration": 5.25,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S-inv",
+            "start": 69.0,
+            "duration": 5.25,
+            "staff": "1",
+            "tag": "S-inv"
+        },
+        {
+            "type": "S-inv",
+            "start": 75.0,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S-inv"
+        },
+        {
+            "type": "S-inv",
+            "start": 81.0,
+            "duration": 5.25,
+            "staff": "3",
+            "tag": "S-inv"
+        },
+        {
+            "type": "S",
+            "start": 84.0,
+            "duration": 8.25,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 102.0,
+            "duration": 4.5,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S1",
+            "start": 105.75,
+            "duration": 3.0,
+            "staff": "2",
+            "tag": "S1"
+        },
+        {
+            "type": "CS1",
+            "start": 110.25,
+            "duration": 3.75,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 141.0,
+            "duration": 5.25,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S-inv",
+            "start": 156.0,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S-inv"
+        },
+        {
+            "type": "S",
+            "start": 162.0,
+            "duration": 5.25,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 180.0,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 195.0,
+            "duration": 5.25,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 199.5,
+            "duration": 5.25,
+            "staff": "3",
+            "tag": "S"
+        }
+    ]
+}

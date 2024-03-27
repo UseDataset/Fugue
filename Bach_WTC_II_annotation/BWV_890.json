@@ -1,0 +1,179 @@
+{
+    "labels": [
+        {
+            "type": "S",
+            "start": 0.5,
+            "duration": 11.5,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 12.5,
+            "duration": 11.5,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 36.5,
+            "duration": 11.5,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 60.5,
+            "duration": 11.5,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "S",
+            "start": 93.5,
+            "duration": 11.5,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 97.0,
+            "duration": 8.0,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS2",
+            "start": 97.0,
+            "duration": 8.0,
+            "staff": "3",
+            "tag": "CS2"
+        },
+        {
+            "type": "S",
+            "start": 117.5,
+            "duration": 11.5,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 121.0,
+            "duration": 8.0,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS2",
+            "start": 121.0,
+            "duration": 8.0,
+            "staff": "2",
+            "tag": "CS2"
+        },
+        {
+            "type": "S",
+            "start": 138.5,
+            "duration": 11.5,
+            "staff": "3",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 145.0,
+            "duration": 5.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS2",
+            "start": 144.0,
+            "duration": 3.0,
+            "staff": "1",
+            "tag": "CS2"
+        },
+        {
+            "type": "S",
+            "start": 159.5,
+            "duration": 11.5,
+            "staff": "2",
+            "tag": "S"
+        },
+        {
+            "type": "CS2",
+            "start": 165.0,
+            "duration": 6.0,
+            "staff": "1",
+            "tag": "CS2"
+        },
+        {
+            "type": "CS1",
+            "start": 165.0,
+            "duration": 6.0,
+            "staff": "3",
+            "tag": "CS1"
+        },
+        {
+            "type": "S",
+            "start": 186.5,
+            "duration": 11.5,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 190.0,
+            "duration": 8.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS2",
+            "start": 190.0,
+            "duration": 8.0,
+            "staff": "3",
+            "tag": "CS2"
+        },
+        {
+            "type": "S",
+            "start": 231.5,
+            "duration": 11.5,
+            "staff": "1",
+            "tag": "S"
+        },
+        {
+            "type": "CS1",
+            "start": 238.0,
+            "duration": 5.0,
+            "staff": "2",
+            "tag": "CS1"
+        },
+        {
+            "type": "CS2",
+            "start": 237.0,
+            "duration": 9.0,
+            "staff": "3",
+            "tag": "CS2"
+        },
+        {
+            "type": "CS2",
+            "start": 249.0,
+            "duration": 3.0,
+            "staff": "3",
+            "tag": "CS2"
+        },
+        {
+            "type": "CS1",
+            "start": 243.5,
+            "duration": 8.5,
+            "staff": "1",
+            "tag": "CS1"
+        },
+        {
+            "type": "S-inc",
+            "start": 243.5,
+            "duration": 8.5,
+            "staff": "2",
+            "tag": "S-inc"
+        }
+    ]
+}
